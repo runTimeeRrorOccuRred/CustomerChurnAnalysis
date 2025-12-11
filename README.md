@@ -37,3 +37,18 @@ Power BI Dashboard
 - [Python File](Notebook/customer_churn.ipynb)
 - [PowerBi File](PowerBi/customer_churn.pbix)
 - [Presentation](Presentation/Customer_Churn_Analysis.pptx)
+
+🔍 Sample Insights
+- Customers having internet service are more likely to churn.
+- Customers not having online security are more likely to churn.
+- Shorter commitment reduces customer retention.
+
+🛠 Tools Used
+- SQL (CTE, Window Fucntion)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI (Dax)
+
+📌 Summary
+This project provides a complete churn analysis using SQL for querying, Python for EDA, and Power BI for dashboarding.
+It highlights the key drivers behind customer churn and provides actionable insights to help businesses strengthen customer retention.
+
