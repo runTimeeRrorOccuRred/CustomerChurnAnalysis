@@ -10,33 +10,33 @@ Using SQL, Python EDA, and Power BI visuals, the aim is to highlight the key ind
 
 📊 Workflow
 
-1. Data Cleaning
+Data Cleaning
 - Removed duplicates
 - Treated missing values
 - Standardized data types
 
-2. SQL Analysis
+SQL Analysis
 - Customer segmentation
 - Churn rate calculations
 - Behavior analysis
 
-3. Python EDA
+Python EDA
 - Distribution analysis
 - Outlier detection
 - Correlation study
 - Trend and pattern exploration
 
-4. Power BI Dashboard
+Power BI Dashboard
 - Churn KPIs
 - Customer segments
 - Visual insights and trends
 
 📄 Files & Direct Links
-Dataset
 - [Source Data](Dataset/cleaned_customer_churn.csv)
+- [SQL File](SQL/customer_churn.sql)
+- [Python File](Notebook/customer_churn.ipynb)
+- [PowerBi File](PowerBi/customer_churn.pbix)
 
-SQL File
-customer_churn.sql
 
 Jupyter Notebook
 customer_churn.ipynb
