@@ -49,6 +49,6 @@ Power BI Dashboard
 - Power BI (Dax)
 
 📌 Summary
-This project provides a complete churn analysis using SQL for querying, Python for EDA, and Power BI for dashboarding.
+- This project provides a complete churn analysis using SQL for querying, Python for EDA, and Power BI for dashboarding.
 It highlights the key drivers behind customer churn and provides actionable insights to help businesses strengthen customer retention.
 
