@@ -36,13 +36,4 @@ Power BI Dashboard
 - [SQL File](SQL/customer_churn.sql)
 - [Python File](Notebook/customer_churn.ipynb)
 - [PowerBi File](PowerBi/customer_churn.pbix)
-
-
-Jupyter Notebook
-customer_churn.ipynb
-
-Power BI Report
-customer_churn.pbix
-
-Presentation
-Presentation Folder
+- [Presentation](Presentation/Customer_Churn_Analysis.pptx)
