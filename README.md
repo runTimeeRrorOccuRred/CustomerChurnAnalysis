@@ -1,6 +1,6 @@
 # Customer Churn Analysis (SQL • Python • Power BI)
 
-This project analyzes customer churn using SQL, Python (EDA), and Power BI. It explores churn patterns, identifies high-risk customer segments, and presents insights through interactive dashboards.
+This project analyzes customer churn using SQL, Python (EDA), and Power BI. It explores churn patterns, identifies high-risk customer segments, and presents insights through interactive dashboards. The dataset contains 7,000+ customer records with demographic details, service usage, and billing information.
 
 ## 🎯 Objective
 
@@ -26,7 +26,7 @@ Using SQL, Python EDA, and Power BI visuals, the aim is to highlight the key ind
 - Correlation study
 - Trend and pattern exploration
 
-**Power BI Dashboard**
+**Power BI Reports**
 - Churn KPIs
 - Customer segments
 - Visual insights and trends
@@ -39,9 +39,11 @@ Using SQL, Python EDA, and Power BI visuals, the aim is to highlight the key ind
 - [Presentation](Presentation/Customer_Churn_Analysis.pptx)
 
 ## 🔍 Sample Insights
-- Customers having internet service are more likely to churn.
-- Customers not having online security are more likely to churn.
-- Shorter commitment reduces customer retention.
+- Customers with internet services show higher churn rates.
+- Customers without online security services are more likely to churn.
+- Short-term contracts significantly reduce customer retention.
+- Overall, these factors emerge as the 3 key churn drivers, together accounting for the majority of observed churn.
+
 
 ## 🛠 Tools Used
 - SQL (CTE, Window Fucntion)
